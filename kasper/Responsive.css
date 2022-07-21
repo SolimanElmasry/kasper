@@ -1,0 +1,17 @@
+@media (max-width:767) {
+    .services .card{
+        flex-basis: 95%;
+    }
+}
+
+@media (min-width:768) {
+    
+}
+
+@media (min-width:992) {
+    
+}
+
+@media (min-width:1200) {
+    
+}
